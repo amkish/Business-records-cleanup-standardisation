@@ -1,0 +1,2 @@
+total_records_received,valid_records,review_records,rejected_records,possible_duplicates,records_missing_core_fields,records_without_valid_contact,records_with_invalid_dates,records_with_invalid_amounts
+438,240,196,2,113,22,52,16,144

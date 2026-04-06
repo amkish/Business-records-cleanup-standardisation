@@ -1,0 +1,111 @@
+Client,Mobile,Email,Ref_No,Booking_Date,Product/Service,Group,Office,City,Units,Total
+Theodore  Marlowe,00447599154414,theodore.marlowe@@examplemail.co.uk,INV-1090,22-02-2025,store refresh,Premium,central office,BRISTOL,4,"900,00"
+ALICE WAVERLEY,00447731924051,ALICE.WAVERLEY@EXAMPLEMAIL.CO.UK,inv 1091,20 Jan 2025,Maintenance Visit,Standard,south office,Leeds,4,"600,00"
+ Thomas Sinclair ,+44 7951 078 441,thomas.sinclair@@examplemail.co.uk,1092,20 February 2025,Maintenance Visit,Standard,North,manchester ,3,
+poppy chadwick,00447599277266,poppy.chadwick@examplemail.co,inv-1093,28-03-2025,operational check,Standard,SOUTH,leeds ,4,"900,00"
+samuel blackwell,07461203124,samuel.blackwell@examplemail.co,INV 1094,24 February 2025,deep cleaning package,P,Central Hub,Bristol City,3,
+ Edward Marlowe ,07509760,edward.marlowe@examplemail.co,INV1095,25-02-2025,Store Refresh,P,North,Bristol City,1,
+ Phoebe Prescott ,00447996278008,phoebe.prescott@examplemail.co,INV 1096,14 Jan 2025,Operational Check,Std,South,Bristol City,2,"450,00"
+ISLA ASHCROFT,00447682624278,isla.ashcroft@examplemail.co,,23 Mar 2025,Store Refresh,P,south office,leeds ,4,
+IMOGEN KENSINGTON,07624 232 414,IMOGEN.KENSINGTON@EXAMPLEMAIL.CO.UK,inv-1098,2025-01-19,Op Check,Std,central office,Manchester,3,"750,00"
+Phoebe Darlington,07200 273 738,PHOEBE.DARLINGTON@EXAMPLEMAIL.CO.UK,INV1099,10-02-2025,maintenance visit,Std,Central Hub,LEEDS,2,
+ALICE WAVERLEY,00447731924051,ALICE.WAVERLEY@EXAMPLEMAIL.CO.UK,INV1100,22/03/25,Refresh,premium service,South Branch,Leeds,3,
+Amelia Darlington,07812308209, amelia.darlington@examplemail.co.uk ,,15 Feb 2025,Install Support,Standard,Central,leeds ,1,"150,00"
+henry templeton,00000000000, henry.templeton@examplemail.co.uk ,,2025-02-01,operational check,Basic,NORTH HQ,birminham,3,
+rosie collins,07902099,rosie.collins@examplemail.co,,20 Mar 2025,priority service call,prem,NORTH HQ,leeds ,2,"300,00"
+isla ashcroft,00447682624278,isla.ashcroft@examplemail.co,,07-02-2025,Priority Service Call,prem,south office,Leedz,2,350
+Sophie  Winslow,+44 7694 164 665, sophie.winslow@examplemail.co.uk ,,25-02-2025,deep cleaning package,P,NORTH HQ,Birmingham,4,£600
+oscar redford,07511 872 350,oscar.redford@@examplemail.co.uk,1106,18-01-2025,Prem Consult,P,CENTRAL BRANCH,manchester ,4,
+Sophie Hollis,07705 557 720,sophie.hollis@examplemail.co,1107,19 Jan 2025,Install Support,STD,central office,birminham,1,"275,00"
+ Poppy Mercer ,00000000000,poppy.mercer@@examplemail.co.uk,,23 February 2025,priority service call,premium service,south office,Mcr,2,"500,00"
+Alfie  Fletcher,07612957813,alfie.fletcher@examplemail.co.uk,,25/01/25,Deep Cleaning Package,prem,NORTH BRANCH,leeds ,3,"450,00"
+ Imogen Hollis ,07530613729, imogen.hollis@examplemail.co.uk ,,07 Feb 2025,CCR,Basic,South Branch,Mcr,1,"200,00"
+samuel ellison,07592080,samuel.ellison@@examplemail.co.uk,inv 1111,2025-02-14,Priority Service Call,premium service,North,Birmingham,1,£150
+ George Chadwick ,00447409268943,george.chadwick@examplemail.co,INV1112,29/01/25,installation support,STD,South,MANCHESTER,1,
+LUKE WINSLOW,00000000000,luke.winslow@examplemail.co.uk,inv-1113,02/04/25,Deep Cleaning Package,P,CENTRAL BRANCH,BIRMINGHAM,2,"500,00"
+ Phoebe Winslow ,+44 7879 591 310,phoebe.winslow@@examplemail.co.uk,inv-1114,14 March 2025,DC,premium service,NORTH HQ,Leedz,3,
+ Leo Sterling ,00000000000, leo.sterling@examplemail.co.uk ,INV1115,17/02/25,store refresh,P,NORTH BRANCH,Leedz,1,"150,00"
+THEODORE MARLOWE,00447599154414,theodore.marlowe@@examplemail.co.uk,,12-03-2025,Refresh,Premium,Central Hub,Bristol City,3,"450,00"
+PHOEBE DARLINGTON,07200 273 738,PHOEBE.DARLINGTON@EXAMPLEMAIL.CO.UK,,2025-02-23,customer care review,Basic,Central Hub,leeds ,3,
+MATILDA AINSWORTH,07126226563, matilda.ainsworth@examplemail.co.uk ,INV 1118,10-03-2025,Setup,STD,NORTH HQ,manchester ,4,
+SAMUEL BRAMWELL,00000000000,samuel.bramwell@examplemail.co.uk,INV-1119,2025-01-16,premium consultation,Premium,Central Hub,BIRMINGHAM,4,
+George Sutton,07200 140 141, george.sutton@examplemail.co.uk ,inv-1120,24 March 2025,Customer Care Review,STD,Central,birminham,2,£550
+Eliza Ainsworth,07932894,eliza.ainsworth@examplemail.co,inv-1121,14-03-2025,Operational Check,Std,Central Hub,manchester ,1,
+Evie Chadwick,00447462388455,EVIE.CHADWICK@EXAMPLEMAIL.CO.UK,INV 1122,2025-03-09,Priority Service Call,P,South Branch,Leeds,3,
+Eleanor Redford,00000000000,eleanor.redford@@examplemail.co.uk,INV-1123,14-03-2025,maintenance visit,STD,South,leeds ,3,
+ Isla Templeton ,00000000000,isla.templeton@examplemail.co,,27 Jan 2025,Store Refresh,Premium,Central,manchester ,4, 900 
+ISLA MARLOWE,00000000000, isla.marlowe@examplemail.co.uk ,INV-1125,16-01-2025,store refresh,Premium,central office,manchester ,3,600.00
+Henry Templeton,00000000000, henry.templeton@examplemail.co.uk ,,15 March 2025,Store Refresh,P,North,Bham,1,"150,00"
+Florence Collins,07679153,florence.collins@examplemail.co.uk,,2025-02-26,Refresh,Premium,south office,MANCHESTER,2,
+SAMUEL WHITMORE,00000000000,SAMUEL.WHITMORE@EXAMPLEMAIL.CO.UK,,02 Mar 2025,Priority Call,prem,CENTRAL BRANCH,Manchester,1,"95,00"
+ Freya Whitmore ,00447480424119,freya.whitmore@examplemail.co,inv-1129,11 March 2025,customer care review,Std,Central Hub,BRISTOL,2,300.00
+Florence  Prescott,00447630833445, florence.prescott@examplemail.co.uk ,,19 Feb 2025,installation support,Std,Central Hub,Bristol,3,675.00
+Hugo  Hollis,07262 915 636,hugo.hollis@@examplemail.co.uk,INV 1131,19 Mar 2025,Priority Call,Premium,NORTH HQ,BIRMINGHAM,4,"380,00"
+ivy langley,+44 7477 698 143,ivy.langley@examplemail.co,,24 Jan 2025,Customer Care Review,Standard,south,Birmingham,1,275.00
+MARTHA PRITCHARD,00000000000, martha.pritchard@examplemail.co.uk ,,2025-03-24,Installation Support,Standard,NORTH HQ,MANCHESTER,4, 600 
+rosie darlington,07357 553 274,rosie.darlington@@examplemail.co.uk,inv-1134,27/02/25,Installation Support,Basic,North,MANCHESTER,1,
+Nathan Sinclair,07379 995 032,NATHAN.SINCLAIR@EXAMPLEMAIL.CO.UK,,07 March 2025,Deep Cleaning Package,Premium,SOUTH,Leeds,2,£500
+SEBASTIAN CHADWICK,07214 518 079,sebastian.chadwick@examplemail.co,,2025-03-03,On Site Setup,STD,south,bristol ,1,"150,00"
+Alice  Waverley,00447731924051,ALICE.WAVERLEY@EXAMPLEMAIL.CO.UK,,22-03-2025,On Site Setup,STD,south office,Leedz,4,
+jack bennett,+44 7903 132 646,jack.bennett@examplemail.co.uk,,19 Mar 2025,operational check,Basic,CENTRAL BRANCH,Bham,3,
+ Oscar Winslow ,00000000000,OSCAR.WINSLOW@EXAMPLEMAIL.CO.UK,,14/02/25,Setup,Standard,SOUTH,Manchester,2, 400 
+amelia fairchild,00447491079829,amelia.fairchild@examplemail.co.uk,inv-1140,13 Mar 2025,On Site Setup,Std,central office,Manchester,3,
+amelia fairchild,00447491079829,amelia.fairchild@examplemail.co.uk,INV1141,2025-03-24,premium consultation,P,Central,MANCHESTER,4,"900,00"
+george langley,07959629660, george.langley@examplemail.co.uk ,1142,15-01-2025,Maint Visit,Standard,CENTRAL BRANCH,Leeds,3,£825
+clara bennett,00000000000,CLARA.BENNETT@EXAMPLEMAIL.CO.UK,,12-03-2025,Maintenance Visit,STD,Central,BIRMINGHAM,3,"600,00"
+Freya  Whitmore,00447480424119,freya.whitmore@examplemail.co,,29 March 2025,Prem Consult,prem,central office,Bristol,2,"190,00"
+Luke  Ashcroft,07282 518 553,luke.ashcroft@examplemail.co.uk,INV1145,2025-02-07,priority service call,P,Central Hub,Mcr,1,"250,00"
+ Thomas Sutton ,07906341966,thomas.sutton@examplemail.co,INV 1146,22-01-2025,Op Check,Basic,central office,Bham,2,"500,00"
+Clara  Bennett,00000000000,CLARA.BENNETT@EXAMPLEMAIL.CO.UK,inv-1147,2025-03-12,Operational Check,Std,Central Hub,birminham,3,"600,00"
+ Thomas Sinclair ,07463527,thomas.sinclair@examplemail.co,,21 Jan 2025,Deep Cleaning Package,P,SOUTH,Leeds,1,"150,00"
+ Eleanor Pritchard ,07434961,eleanor.pritchard@examplemail.co,INV1149,14-01-2025,Inventory Audit,STD,north,birminham,2,£400
+Poppy Sinclair,+44 7508 157 429,poppy.sinclair@examplemail.co,inv-1150,17 Feb 2025,Deep Cleaning Package,P,North,birminham,3,"600,00"
+Theodore  Sterling,07696776072,theodore.sterling@@examplemail.co.uk,inv-1151,18 March 2025,Priority Call,P,Central Hub,leeds ,4,"800,00"
+Oscar  Winslow,00000000000,OSCAR.WINSLOW@EXAMPLEMAIL.CO.UK,,2025-02-21,Premium Consultation,P,south office,manchester ,3,£450
+ Daniel Chadwick ,00447336696312,daniel.chadwick@@examplemail.co.uk,,16 Feb 2025,Customer Care Review,Standard,CENTRAL BRANCH,Bristol City,2,
+ Martha Kensington ,07174041,MARTHA.KENSINGTON@EXAMPLEMAIL.CO.UK,INV1154,2025-02-20,Priority Service Call,premium service,south,Leeds,1,
+ Freya Whitmore ,00447480424119,freya.whitmore@examplemail.co,1155,20/02/25,operational check,Std,CENTRAL BRANCH,BRISTOL,3, 750 
+isla sterling,07685823118,ISLA.STERLING@EXAMPLEMAIL.CO.UK,1156,13 February 2025,operational check,STD,central office,manchester ,1,"200,00"
+ Clara Bennett ,00000000000,CLARA.BENNETT@EXAMPLEMAIL.CO.UK,INV1157,09-02-2025,Customer Care Review,STD,Central Hub,birminham,4,800.00
+GEORGE SUTTON,07200 140 141, george.sutton@examplemail.co.uk ,INV1158,2025-03-15,store refresh,prem,Central Hub,Bham,3,
+Phoebe Huxley,00447396618390,PHOEBE.HUXLEY@EXAMPLEMAIL.CO.UK,INV1159,2025-02-07,on site setup,STD,North,birminham,2,
+ Phoebe Prescott ,00447996278008,phoebe.prescott@examplemail.co,,2025-03-04,Customer Care Review,Standard,south office,bristol ,2,
+Samuel  Sterling,00447179308612,SAMUEL.STERLING@EXAMPLEMAIL.CO.UK,INV1161,20 January 2025,Installation Support,STD,South,manchester ,3,"360,00"
+Ivy  Bennett,00000000000,ivy.bennett@examplemail.co,,2025-01-17,premium consultation,premium service,North Branch,bristol ,2,300
+florence prescott,00447630833445, florence.prescott@examplemail.co.uk ,1163,2025-03-07,Priority Service Call,Premium,central office,Bristol City,4,
+SEBASTIAN SINCLAIR,00447699226355,sebastian.sinclair@@examplemail.co.uk,,17/01/25,Op Check,Basic,NORTH BRANCH,BIRMINGHAM,4,"1100,00"
+Ivy Bennett,00000000000,ivy.bennett@examplemail.co,,22/03/25,Deep Cleaning Package,premium service,North,Bristol City,1,£250
+alfie ainsworth,07386 480 450,alfie.ainsworth@examplemail.co.uk,,06 Feb 2025,deep cleaning package,premium service,south office,MANCHESTER,1,
+ Eleanor Huxley ,07378 304 807,ELEANOR.HUXLEY@EXAMPLEMAIL.CO.UK,INV-1167,2025-03-20,Prem Consult,prem,South Branch,Bristol City,4,"380,00"
+AMELIA FAIRCHILD,00447491079829,amelia.fairchild@examplemail.co.uk,1168,02 Feb 2025,store refresh,prem,Central,Manchester,3, 750 
+Samuel  Blackwell,07461203124,samuel.blackwell@examplemail.co,,27 February 2025,Refresh,prem,Central Hub,Bristol City,3,"360,00"
+GEORGE BLACKWELL,07161073,george.blackwell@examplemail.co.uk,inv-1170,2025-03-01,Priority Call,Premium,South Branch,manchester ,2,
+THEODORE COLLINS,07209747451,theodore.collins@examplemail.co,INV-1171,2025-03-10,Maintenance Visit,Std,North,Leedz,4,"700,00"
+ Freya Crawford ,00000000000, freya.crawford@examplemail.co.uk ,inv-1172,23 February 2025,Op Check,Basic,Central Hub,Bristol City,2,£240
+Leo  Blackwell,00000000000, leo.blackwell@examplemail.co.uk ,INV 1173,29/03/25,Store Refresh,prem,North,birminham,2,"240,00"
+eliza ellison,+44 7220 117 054,ELIZA.ELLISON@EXAMPLEMAIL.CO.UK,INV 1174,14/01/25,Installation Support,Basic,south office,Bham,2,
+George  Crawford,00000000000,george.crawford@examplemail.co.uk,INV 1175,08/02/25,operational check,Std,NORTH BRANCH,BIRMINGHAM,1,
+ Alfie Fletcher ,07612957813,alfie.fletcher@examplemail.co.uk,inv-1176,08 Feb 2025,maintenance visit,Basic,NORTH HQ,leeds ,3,"525,00"
+Nathan  Blackwell,07688343096,NATHAN.BLACKWELL@EXAMPLEMAIL.CO.UK,,04 April 2025,Inv Audit,Std,South Branch,BRISTOL,4, 800 
+Harry  Blackwell,07216396,harry.blackwell@examplemail.co,,22 March 2025,DC,premium service,South Branch,Bham,4, 1100 
+Eleanor Redford,00000000000,eleanor.redford@@examplemail.co.uk,INV-1179,02-04-2025,CCR,Standard,south office,Leedz,4,1000.00
+FLORENCE CHADWICK,00447250519597, florence.chadwick@examplemail.co.uk ,,27 Feb 2025,Maintenance Visit,Std,CENTRAL BRANCH,BRISTOL,2,
+ Daniel Collins ,00447813962536, daniel.collins@examplemail.co.uk ,inv 1181,2025-03-10,Inventory Audit,Std,NORTH BRANCH,Bristol City,4,
+SOPHIE BRAMWELL,+44 7153 992 714,sophie.bramwell@examplemail.co,,11 February 2025,on site setup,Basic,South Branch,Manchester,1,"275,00"
+Ivy  Langley,+44 7477 698 143,ivy.langley@examplemail.co,INV-1183,19 March 2025,Prem Consult,P,SOUTH,Birmingham,3,
+ Nathan Bramwell ,07634366, nathan.bramwell@examplemail.co.uk ,inv 1184,28 March 2025,Install Support,Basic,south office,Manchester,2,"350,00"
+Matilda Whitmore,07438817025,matilda.whitmore@@examplemail.co.uk,,21/02/25,on site setup,STD,CENTRAL BRANCH,MANCHESTER,2, 350 
+Arthur Mercer,07463016614,arthur.mercer@@examplemail.co.uk,INV 1186,2025-02-10,Operational Check,Basic,NORTH HQ,Birmingham,4,700.00
+hugo winslow,07570040006,hugo.winslow@@examplemail.co.uk,,15 Feb 2025,Customer Care Review,Standard,central office,bristol ,3,£600
+beatrice bramwell,07338 836 384,beatrice.bramwell@examplemail.co,INV-1188,16 Mar 2025,customer care review,Standard,North,BRISTOL,1,
+MATILDA AINSWORTH,07126226563, matilda.ainsworth@examplemail.co.uk ,,26 Feb 2025,Setup,Std,North Branch,Manchester,1,£175
+George  Langley,07959629660, george.langley@examplemail.co.uk ,INV1190,2025-02-12,DC,P,CENTRAL BRANCH,LEEDS,3,"450,00"
+SAMUEL ELLISON,07592080,samuel.ellison@@examplemail.co.uk,inv-1191,08 Feb 2025,CCR,Std,NORTH HQ,BIRMINGHAM,4,£900
+ Alfie Ainsworth ,07386 480 450,alfie.ainsworth@examplemail.co.uk,INV-1192,02-04-2025,operational check,STD,south,MANCHESTER,2,"450,00"
+Edward  Prescott,07266 211 829,EDWARD.PRESCOTT@EXAMPLEMAIL.CO.UK,,20 March 2025,Inventory Audit,Standard,Central Hub,Bristol,1,
+EDWARD MARLOWE,07509760,edward.marlowe@examplemail.co,inv-1194,10 January 2025,deep cleaning package,P,North Branch,bristol ,2,
+ Florence Chadwick ,00447250519597, florence.chadwick@examplemail.co.uk ,INV-1195,06-02-2025,Deep Cleaning Package,P,Central Hub,Bristol City,3,"285,00"
+Phoebe  Winslow,+44 7879 591 310,phoebe.winslow@@examplemail.co.uk,inv-1196,12-03-2025,Install Support,Standard,NORTH BRANCH,Leeds,1,"250,00"
+ Daniel Chadwick ,00447336696312,daniel.chadwick@@examplemail.co.uk,inv-1197,18 March 2025,Deep Cleaning Package,premium service,Central Hub,Bristol,1,
+George  Blackwell,07161073,george.blackwell@examplemail.co.uk,INV 1198,2025-01-22,Prem Consult,Premium,south,MANCHESTER,2,"350,00"
+Phoebe Winslow,+44 7879 591 310,phoebe.winslow@@examplemail.co.uk,1199,11 Feb 2025,priority service call,Premium,NORTH HQ,Leeds,4,

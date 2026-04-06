@@ -1,0 +1,199 @@
+record_id,customer_name_clean,source_file,issue_type,duplicate_flag,missing_field_flag,contact_valid_flag,date_valid_flag,amount_valid_flag,review_notes
+REC-00037,Freya Bramwell,branch_north.xlsx,review,yes,no,yes,yes,yes,possible duplicate
+REC-00050,Sebastian Sinclair,branch_north.xlsx,review,yes,no,yes,yes,yes,possible duplicate
+REC-00052,Jack Bennett,branch_north.xlsx,review,yes,no,yes,yes,yes,possible duplicate
+REC-00063,Jack Fairchild,branch_north.xlsx,review,no,no,yes,yes,no,invalid amount
+REC-00067,Hugo Hollis,branch_north.xlsx,review,yes,no,yes,yes,yes,possible duplicate
+REC-00073,Alice Waverley,branch_north.xlsx,review,no,no,yes,yes,no,invalid amount
+REC-00079,Florence Chadwick,branch_north.xlsx,review,yes,no,yes,yes,yes,possible duplicate
+REC-00084,Leo Hollis,branch_north.xlsx,review,yes,no,yes,yes,yes,possible duplicate
+REC-00088,Freya Sinclair,branch_north.xlsx,review,no,no,yes,yes,no,invalid amount
+REC-00091,Theodore Marlowe,branch_north.xlsx,review,yes,no,yes,yes,yes,possible duplicate
+REC-00092,Alice Waverley,branch_north.xlsx,review,yes,no,yes,yes,yes,possible duplicate
+REC-00093,Thomas Sinclair,branch_north.xlsx,review,yes,no,yes,yes,yes,possible duplicate
+REC-00094,Poppy Chadwick,branch_north.xlsx,review,yes,no,yes,yes,yes,possible duplicate
+REC-00095,Samuel Blackwell,branch_north.xlsx,review,yes,no,yes,yes,yes,possible duplicate
+REC-00096,Edward Marlowe,branch_north.xlsx,review,yes,no,yes,yes,yes,possible duplicate
+REC-00097,Phoebe Prescott,branch_north.xlsx,review,yes,no,yes,yes,yes,possible duplicate
+REC-00099,Imogen Kensington,branch_north.xlsx,review,yes,no,yes,yes,yes,possible duplicate
+REC-00100,Phoebe Darlington,branch_north.xlsx,review,yes,no,yes,yes,yes,possible duplicate
+REC-00101,Alice Waverley,branch_north.xlsx,review,yes,no,yes,yes,yes,possible duplicate
+REC-00102,Amelia Darlington,branch_north.xlsx,review,yes,no,yes,yes,yes,possible duplicate
+REC-00104,Rosie Collins,branch_north.xlsx,review,yes,no,yes,yes,yes,phone updated from contact_updates | possible duplicate
+REC-00105,Isla Ashcroft,branch_north.xlsx,review,yes,no,yes,yes,yes,possible duplicate
+REC-00106,Sophie Winslow,branch_north.xlsx,review,yes,no,yes,yes,yes,possible duplicate
+REC-00107,Oscar Redford,branch_north.xlsx,review,yes,no,yes,yes,yes,possible duplicate
+REC-00108,Sophie Hollis,branch_north.xlsx,review,yes,no,yes,yes,yes,possible duplicate
+REC-00109,Poppy Mercer,branch_north.xlsx,review,yes,no,yes,yes,yes,possible duplicate
+REC-00110,Alfie Fletcher,branch_north.xlsx,review,yes,no,yes,yes,yes,possible duplicate
+REC-00111,Imogen Hollis,branch_north.xlsx,review,yes,no,yes,yes,yes,possible duplicate
+REC-00112,Samuel Ellison,branch_north.xlsx,review,yes,no,yes,yes,yes,phone updated from contact_updates | possible duplicate
+REC-00113,George Chadwick,branch_north.xlsx,review,yes,no,yes,yes,yes,possible duplicate
+REC-00114,Luke Winslow,branch_north.xlsx,review,yes,no,yes,yes,yes,possible duplicate
+REC-00115,Phoebe Winslow,branch_north.xlsx,review,yes,no,yes,yes,yes,possible duplicate
+REC-00116,Leo Sterling,branch_north.xlsx,review,yes,no,yes,yes,yes,possible duplicate
+REC-00117,Theodore Marlowe,branch_north.xlsx,review,yes,no,yes,yes,yes,possible duplicate
+REC-00119,Matilda Ainsworth,branch_north.xlsx,review,yes,no,yes,yes,yes,possible duplicate
+REC-00120,Samuel Bramwell,branch_north.xlsx,review,yes,no,yes,yes,yes,possible duplicate
+REC-00121,Thomas Sinclair,branch_north.xlsx,review,yes,no,yes,yes,yes,possible duplicate
+REC-00122,Sebastian Sinclair,branch_north.xlsx,review,yes,no,yes,yes,yes,possible duplicate
+REC-00123,Samuel Bramwell,branch_north.xlsx,review,yes,no,yes,yes,yes,possible duplicate
+REC-00124,Jack Bennett,branch_north.xlsx,review,yes,no,yes,yes,yes,possible duplicate
+REC-00125,Florence Chadwick,branch_north.xlsx,review,yes,no,yes,yes,yes,possible duplicate
+REC-00126,Leo Hollis,branch_north.xlsx,review,yes,no,yes,yes,yes,possible duplicate
+REC-00127,Hugo Hollis,branch_north.xlsx,review,yes,no,yes,yes,yes,possible duplicate
+REC-00128,Freya Bramwell,branch_north.xlsx,review,yes,no,yes,yes,yes,possible duplicate
+REC-00129,Theodore Marlowe,branch_south.csv,review,yes,no,yes,yes,yes,possible duplicate
+REC-00130,Alice Waverley,branch_south.csv,review,yes,no,yes,yes,yes,possible duplicate
+REC-00131,Thomas Sinclair,branch_south.csv,review,yes,no,yes,yes,no,possible duplicate | invalid amount
+REC-00132,Poppy Chadwick,branch_south.csv,review,yes,no,yes,yes,yes,possible duplicate
+REC-00133,Samuel Blackwell,branch_south.csv,review,yes,no,yes,yes,no,possible duplicate | invalid amount
+REC-00134,Edward Marlowe,branch_south.csv,review,yes,no,yes,yes,no,possible duplicate | invalid amount
+REC-00135,Phoebe Prescott,branch_south.csv,review,yes,no,yes,yes,yes,possible duplicate
+REC-00136,Isla Ashcroft,branch_south.csv,review,no,no,yes,yes,no,invalid amount
+REC-00137,Imogen Kensington,branch_south.csv,review,yes,no,yes,yes,yes,possible duplicate
+REC-00138,Phoebe Darlington,branch_south.csv,review,yes,no,yes,yes,no,possible duplicate | invalid amount
+REC-00139,Alice Waverley,branch_south.csv,review,yes,no,yes,yes,no,possible duplicate | invalid amount
+REC-00140,Amelia Darlington,branch_south.csv,review,yes,no,yes,yes,yes,possible duplicate
+REC-00141,Henry Templeton,branch_south.csv,review,no,no,yes,yes,no,invalid amount
+REC-00142,Rosie Collins,branch_south.csv,review,yes,no,yes,yes,yes,phone updated from contact_updates | possible duplicate
+REC-00143,Isla Ashcroft,branch_south.csv,review,yes,no,yes,yes,yes,possible duplicate
+REC-00144,Sophie Winslow,branch_south.csv,review,yes,no,yes,yes,yes,possible duplicate
+REC-00145,Oscar Redford,branch_south.csv,review,yes,no,yes,yes,no,possible duplicate | invalid amount
+REC-00146,Sophie Hollis,branch_south.csv,review,yes,no,yes,yes,yes,possible duplicate
+REC-00147,Poppy Mercer,branch_south.csv,review,yes,no,yes,yes,yes,possible duplicate
+REC-00148,Alfie Fletcher,branch_south.csv,review,yes,no,yes,yes,yes,possible duplicate
+REC-00149,Imogen Hollis,branch_south.csv,review,yes,no,yes,yes,yes,possible duplicate
+REC-00150,Samuel Ellison,branch_south.csv,review,yes,no,yes,yes,yes,phone updated from contact_updates | possible duplicate
+REC-00151,George Chadwick,branch_south.csv,review,yes,no,yes,yes,no,possible duplicate | invalid amount
+REC-00152,Luke Winslow,branch_south.csv,review,yes,no,yes,yes,yes,possible duplicate
+REC-00153,Phoebe Winslow,branch_south.csv,review,yes,no,yes,yes,no,possible duplicate | invalid amount
+REC-00154,Leo Sterling,branch_south.csv,review,yes,no,yes,yes,yes,possible duplicate
+REC-00155,Theodore Marlowe,branch_south.csv,review,yes,no,yes,yes,yes,possible duplicate
+REC-00156,Phoebe Darlington,branch_south.csv,review,no,no,yes,yes,no,invalid amount
+REC-00157,Matilda Ainsworth,branch_south.csv,review,yes,no,yes,yes,no,possible duplicate | invalid amount
+REC-00158,Samuel Bramwell,branch_south.csv,review,yes,no,yes,yes,no,possible duplicate | invalid amount
+REC-00160,Eliza Ainsworth,branch_south.csv,review,no,no,yes,yes,no,phone updated from contact_updates | invalid amount
+REC-00161,Evie Chadwick,branch_south.csv,review,no,no,yes,yes,no,invalid amount
+REC-00162,Eleanor Redford,branch_south.csv,review,no,no,yes,yes,no,invalid amount
+REC-00166,Florence Collins,branch_south.csv,review,no,no,yes,yes,no,invalid amount
+REC-00173,Rosie Darlington,branch_south.csv,review,no,no,yes,yes,no,invalid amount
+REC-00176,Alice Waverley,branch_south.csv,review,yes,no,yes,yes,no,possible duplicate | invalid amount
+REC-00177,Jack Bennett,branch_south.csv,review,yes,no,yes,yes,no,possible duplicate | invalid amount
+REC-00179,Amelia Fairchild,branch_south.csv,review,no,no,yes,yes,no,invalid amount
+REC-00192,Daniel Chadwick,branch_south.csv,review,no,no,yes,yes,no,invalid amount
+REC-00193,Martha Kensington,branch_south.csv,review,no,no,yes,yes,no,phone updated from contact_updates | invalid amount
+REC-00197,George Sutton,branch_south.csv,review,no,no,yes,yes,no,invalid amount
+REC-00198,Phoebe Huxley,branch_south.csv,review,no,no,yes,yes,no,invalid amount
+REC-00199,Phoebe Prescott,branch_south.csv,review,no,no,yes,yes,no,invalid amount
+REC-00202,Florence Prescott,branch_south.csv,review,no,no,yes,yes,no,invalid amount
+REC-00205,Alfie Ainsworth,branch_south.csv,review,no,no,yes,yes,no,invalid amount
+REC-00209,George Blackwell,branch_south.csv,review,no,no,yes,yes,no,invalid amount
+REC-00213,Eliza Ellison,branch_south.csv,review,no,no,yes,yes,no,invalid amount
+REC-00214,George Crawford,branch_south.csv,review,no,no,yes,yes,no,invalid amount
+REC-00219,Florence Chadwick,branch_south.csv,review,no,no,yes,yes,no,invalid amount
+REC-00220,Daniel Collins,branch_south.csv,review,yes,no,yes,yes,no,possible duplicate | invalid amount
+REC-00221,Sophie Bramwell,branch_south.csv,review,yes,no,yes,yes,yes,possible duplicate
+REC-00222,Ivy Langley,branch_south.csv,review,yes,no,yes,yes,no,possible duplicate | invalid amount
+REC-00223,Nathan Bramwell,branch_south.csv,review,yes,no,yes,yes,yes,possible duplicate
+REC-00224,Matilda Whitmore,branch_south.csv,review,yes,no,yes,yes,yes,possible duplicate
+REC-00225,Arthur Mercer,branch_south.csv,review,yes,no,yes,yes,yes,possible duplicate
+REC-00227,Beatrice Bramwell,branch_south.csv,review,yes,no,yes,yes,no,possible duplicate | invalid amount
+REC-00228,Matilda Ainsworth,branch_south.csv,review,yes,no,yes,yes,yes,possible duplicate
+REC-00229,George Langley,branch_south.csv,review,yes,no,yes,yes,yes,possible duplicate
+REC-00230,Samuel Ellison,branch_south.csv,review,yes,no,yes,yes,yes,phone updated from contact_updates | possible duplicate
+REC-00231,Alfie Ainsworth,branch_south.csv,review,yes,no,yes,yes,yes,possible duplicate
+REC-00232,Edward Prescott,branch_south.csv,review,no,no,yes,yes,no,invalid amount
+REC-00233,Edward Marlowe,branch_south.csv,review,yes,no,yes,yes,no,possible duplicate | invalid amount
+REC-00234,Florence Chadwick,branch_south.csv,review,yes,no,yes,yes,yes,possible duplicate
+REC-00235,Phoebe Winslow,branch_south.csv,review,yes,no,yes,yes,yes,possible duplicate
+REC-00236,Daniel Chadwick,branch_south.csv,review,yes,no,yes,yes,no,possible duplicate | invalid amount
+REC-00237,George Blackwell,branch_south.csv,review,yes,no,yes,yes,yes,possible duplicate
+REC-00238,Phoebe Winslow,branch_south.csv,review,yes,no,yes,yes,no,possible duplicate | invalid amount
+REC-00240,Daniel Collins,legacy_export.csv,review,yes,no,yes,yes,yes,possible duplicate
+REC-00241,Sophie Bramwell,legacy_export.csv,review,yes,no,yes,yes,yes,phone updated from contact_updates | email updated from contact_updates | possible duplicate
+REC-00242,Ivy Langley,legacy_export.csv,review,yes,no,yes,yes,yes,possible duplicate
+REC-00243,Nathan Bramwell,legacy_export.csv,review,yes,no,yes,yes,yes,possible duplicate
+REC-00244,Matilda Whitmore,legacy_export.csv,review,yes,no,yes,yes,yes,possible duplicate
+REC-00245,Arthur Mercer,legacy_export.csv,review,yes,no,yes,yes,yes,phone updated from contact_updates | possible duplicate
+REC-00246,Hugo Winslow,legacy_export.csv,review,no,no,yes,yes,no,invalid amount
+REC-00247,Beatrice Bramwell,legacy_export.csv,review,yes,no,yes,yes,yes,possible duplicate
+REC-00248,Matilda Ainsworth,legacy_export.csv,review,yes,no,yes,yes,yes,possible duplicate
+REC-00249,George Langley,legacy_export.csv,review,yes,no,no,yes,no,possible duplicate | no valid phone or email | invalid amount
+REC-00250,Samuel Ellison,legacy_export.csv,review,yes,no,yes,yes,yes,phone updated from contact_updates | possible duplicate
+REC-00251,Alfie Ainsworth,legacy_export.csv,review,yes,no,yes,yes,yes,possible duplicate
+REC-00253,Edward Marlowe,legacy_export.csv,review,yes,no,no,yes,yes,possible duplicate | no valid phone or email
+REC-00254,Florence Chadwick,legacy_export.csv,review,yes,no,yes,yes,yes,possible duplicate
+REC-00255,Phoebe Winslow,legacy_export.csv,review,yes,no,yes,yes,yes,possible duplicate
+REC-00256,Daniel Chadwick,legacy_export.csv,review,yes,no,no,yes,yes,possible duplicate | no valid phone or email
+REC-00257,George Blackwell,legacy_export.csv,review,yes,no,no,yes,yes,possible duplicate | no valid phone or email
+REC-00258,Phoebe Winslow,legacy_export.csv,review,yes,no,yes,yes,yes,phone updated from contact_updates | email updated from contact_updates | possible duplicate
+REC-00259,Imogen Kensington,legacy_export.csv,review,no,no,yes,yes,no,email updated from contact_updates | invalid amount
+REC-00260,Louis Pritchard,legacy_export.csv,review,no,no,yes,yes,no,phone updated from contact_updates | invalid amount
+REC-00261,Edward Hollis,legacy_export.csv,review,no,no,yes,yes,no,invalid amount
+REC-00269,Evie Huxley,legacy_export.csv,review,no,no,no,yes,no,no valid phone or email | invalid amount
+REC-00271,Henry Templeton,legacy_export.csv,review,no,no,yes,yes,no,invalid amount
+REC-00274,Samuel Blackwell,legacy_export.csv,review,no,no,yes,yes,no,phone updated from contact_updates | invalid amount
+REC-00278,Rosie Collins,legacy_export.csv,review,no,no,yes,yes,no,phone updated from contact_updates | invalid amount
+REC-00280,Isla Templeton,legacy_export.csv,review,no,no,yes,yes,no,invalid amount
+REC-00282,Samuel Whitmore,legacy_export.csv,review,no,no,yes,yes,no,invalid amount
+REC-00285,Zara Sutton,legacy_export.csv,review,no,no,no,yes,no,no valid phone or email | invalid amount
+REC-00289,Beatrice Harrington,legacy_export.csv,review,no,no,yes,yes,no,invalid amount
+REC-00293,Luke Hollis,legacy_export.csv,review,no,no,no,yes,no,no valid phone or email | invalid amount
+REC-00294,Alfie Crawford,legacy_export.csv,review,no,no,no,yes,no,no valid phone or email | invalid amount
+REC-00296,Alice Waverley,legacy_export.csv,review,no,no,yes,yes,no,phone updated from contact_updates | invalid amount
+REC-00297,Eleanor Huxley,legacy_export.csv,review,no,no,yes,yes,no,invalid amount
+REC-00302,Florence Sinclair,legacy_export.csv,review,no,no,yes,yes,no,invalid amount
+REC-00304,Sebastian Sinclair,legacy_export.csv,review,no,no,no,yes,no,no valid phone or email | invalid amount
+REC-00308,Louis Pritchard,legacy_export.csv,review,no,no,yes,yes,no,phone updated from contact_updates | email updated from contact_updates | invalid amount
+REC-00309,Ivy Bennett,legacy_export.csv,review,no,no,yes,yes,no,email updated from contact_updates | invalid amount
+REC-00311,Hugo Ellison,legacy_export.csv,review,no,no,yes,yes,no,invalid amount
+REC-00313,Martha Pritchard,legacy_export.csv,review,no,no,yes,yes,no,email updated from contact_updates | invalid amount
+REC-00315,Martha Sterling,legacy_export.csv,review,no,no,yes,yes,no,invalid amount
+REC-00318,Zara Marlowe,legacy_export.csv,review,no,no,yes,yes,no,invalid amount
+REC-00320,Theodore Sterling,legacy_export.csv,review,no,no,no,yes,no,no valid phone or email | invalid amount
+REC-00329,Oliver Sinclair,legacy_export.csv,review,no,no,yes,yes,no,invalid amount
+REC-00331,Daniel Collins,legacy_export.csv,review,no,no,no,yes,no,no valid phone or email | invalid amount
+REC-00336,Martha Sterling,legacy_export.csv,review,no,no,no,yes,no,no valid phone or email | invalid amount
+REC-00339,Theodore Darlington,legacy_export.csv,review,no,no,yes,yes,no,invalid amount
+REC-00342,Poppy Templeton,legacy_export.csv,review,no,no,no,yes,no,no valid phone or email | invalid amount
+REC-00344,Imogen Bennett,legacy_export.csv,review,no,no,yes,yes,no,phone updated from contact_updates | email updated from contact_updates | invalid amount
+REC-00345,Eleanor Redford,legacy_export.csv,review,no,no,yes,yes,no,email updated from contact_updates | invalid amount
+REC-00348,Arthur Mercer,legacy_export.csv,review,no,no,yes,yes,no,phone updated from contact_updates | invalid amount
+REC-00351,Theodore Bennett,legacy_export.csv,review,no,no,yes,yes,no,invalid amount
+REC-00355,Alice Waverley,legacy_export.csv,review,no,no,yes,yes,no,phone updated from contact_updates | email updated from contact_updates | invalid amount
+REC-00357,Alfie Marlowe,legacy_export.csv,review,no,no,yes,yes,no,invalid amount
+REC-00363,Max Bennett,legacy_export.csv,review,no,no,yes,yes,no,invalid amount
+REC-00364,Isla Sterling,legacy_export.csv,review,no,no,no,yes,no,no valid phone or email | invalid amount
+REC-00365,Evie Fletcher,legacy_export.csv,review,no,no,no,yes,no,no valid phone or email | invalid amount
+REC-00370,Matilda Redford,legacy_export.csv,review,no,no,yes,yes,no,invalid amount
+REC-00371,Charlotte Sterling,legacy_export.csv,review,no,no,no,yes,no,no valid phone or email | invalid amount
+REC-00381,Zara Sutton,manual_intake_forms.xlsx,review,no,yes,yes,no,no,New_Customers | needs follow up confirmation | missing core field | invalid or missing date | manual record requires amount follow up
+REC-00383,Henry Templeton 00000000000,manual_intake_forms.xlsx,review,yes,no,yes,yes,no,New_Customers | quoted over phone | possible duplicate | manual record requires amount follow up
+REC-00385,Florence Collins 07679153,manual_intake_forms.xlsx,review,no,yes,yes,yes,no,New_Customers | quoted over phone | missing core field | manual record requires amount follow up
+REC-00389,Ivy Langley,manual_intake_forms.xlsx,review,yes,no,yes,yes,no,New_Customers | quoted over phone | possible duplicate | manual record requires amount follow up
+REC-00391,Oliver Sinclair,manual_intake_forms.xlsx,review,no,yes,yes,yes,no,New_Customers | repeat booking requested | missing core field | manual record requires amount follow up
+REC-00394,Alfie Marlowe Alfie.Marlowe@@Examplemail.Co.Uk,manual_intake_forms.xlsx,rejected,no,no,no,no,no,New_Customers | needs follow up confirmation | no valid phone or email | invalid or missing date | manual record requires amount follow up
+REC-00396,George Blackwell 07161073,manual_intake_forms.xlsx,review,no,yes,no,no,no,New_Customers | quoted over phone | missing core field | no valid phone or email | invalid or missing date | manual record requires amount follow up
+REC-00397,Jack Bennett,manual_intake_forms.xlsx,review,yes,no,yes,yes,no,New_Customers | wants quick turnaround | email updated from contact_updates | possible duplicate | manual record requires amount follow up
+REC-00398,Thomas Sinclair,manual_intake_forms.xlsx,review,yes,yes,yes,yes,no,New_Customers | wants quick turnaround | possible duplicate | missing core field | manual record requires amount follow up
+REC-00400,Florence Prescott,manual_intake_forms.xlsx,review,yes,yes,yes,yes,no,New_Customers | asked for callback | possible duplicate | missing core field | manual record requires amount follow up
+REC-00401,Isla Sterling,manual_intake_forms.xlsx,review,no,yes,yes,no,no,New_Customers | wants quick turnaround | missing core field | invalid or missing date | manual record requires amount follow up
+REC-00402,George Chadwick,manual_intake_forms.xlsx,review,yes,yes,yes,yes,no,New_Customers | quoted over phone | possible duplicate | missing core field | manual record requires amount follow up
+REC-00403,Matilda Fletcher 07153921,manual_intake_forms.xlsx,review,no,yes,yes,yes,no,New_Customers | repeat booking requested | missing core field | manual record requires amount follow up
+REC-00404,Florence Collins 07679153,manual_intake_forms.xlsx,review,no,yes,yes,yes,no,New_Customers | wants quick turnaround | missing core field | manual record requires amount follow up
+REC-00405,Florence Prescott,manual_intake_forms.xlsx,review,yes,no,yes,yes,no,New_Customers | needs follow up confirmation | possible duplicate | manual record requires amount follow up
+REC-00407,George Chadwick,manual_intake_forms.xlsx,review,no,yes,yes,yes,no,New_Customers | repeat booking requested | missing core field | manual record requires amount follow up
+REC-00408,Samuel Bramwell,manual_intake_forms.xlsx,review,yes,yes,yes,yes,no,New_Customers | repeat booking requested | possible duplicate | missing core field | manual record requires amount follow up
+REC-00411,Henry Templeton 00000000000,manual_intake_forms.xlsx,review,yes,no,no,yes,no,Walk_In_Log | walk in enquiry | possible duplicate | no valid phone or email | manual record requires amount follow up
+REC-00414,Oscar Redford,manual_intake_forms.xlsx,review,no,yes,yes,yes,no,Walk_In_Log | needs call back | missing core field | manual record requires amount follow up
+REC-00415,Theodore Redford 07575808,manual_intake_forms.xlsx,rejected,no,no,no,no,no,Walk_In_Log | walk in enquiry | no valid phone or email | invalid or missing date | manual record requires amount follow up
+REC-00418,Thomas Sinclair Thomas.Sinclair@@Examplemail.Co.Uk,manual_intake_forms.xlsx,review,no,yes,no,no,no,Walk_In_Log | needs call back | missing core field | no valid phone or email | invalid or missing date | manual record requires amount follow up
+REC-00419,Theodore Marlowe Theodore.Marlowe@@Examplemail.Co.Uk,manual_intake_forms.xlsx,review,no,yes,no,no,no,Walk_In_Log | requested quote | missing core field | no valid phone or email | invalid or missing date | manual record requires amount follow up
+REC-00420,Eliza Ainsworth 07932894,manual_intake_forms.xlsx,review,no,yes,no,yes,no,Walk_In_Log | requested quote | missing core field | no valid phone or email | manual record requires amount follow up
+REC-00425,Florence Chadwick,manual_intake_forms.xlsx,review,no,yes,yes,yes,no,Walk_In_Log | requested quote | missing core field | manual record requires amount follow up
+REC-00431,Martha Sterling,manual_intake_forms.xlsx,review,no,yes,yes,yes,no,Walk_In_Log | requested quote | missing core field | manual record requires amount follow up
+REC-00434,Samuel Sinclair 00000000000,manual_intake_forms.xlsx,review,no,yes,no,yes,no,Walk_In_Log | needs call back | missing core field | no valid phone or email | manual record requires amount follow up
+REC-00435,Martha Pritchard 00000000000,manual_intake_forms.xlsx,review,no,yes,no,yes,no,Walk_In_Log | needs call back | missing core field | no valid phone or email | manual record requires amount follow up
+REC-00436,Sebastian Langley,manual_intake_forms.xlsx,review,no,yes,yes,yes,no,Walk_In_Log | walk in enquiry | missing core field | manual record requires amount follow up
+REC-00438,Sophie Bramwell,manual_intake_forms.xlsx,review,no,yes,yes,yes,no,Walk_In_Log | needs call back | phone updated from contact_updates | missing core field | manual record requires amount follow up
